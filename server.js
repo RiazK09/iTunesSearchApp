@@ -13,9 +13,11 @@ app.use(express.urlencoded({ extended: true }));
 // This line is required in order to access the API in the React frontend.
 app.use(cors());
 // Helmet is used for security purposes.
-app.use(helmet({
-  contentSecurityPolicy: false,
-}));
+app.use(
+  helmet({
+    contentSecurityPolicy: false,
+  })
+);
 // Morgan will generate logs immediately.
 app.use(morgan("dev"));
 
