@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <span
+    className="AddToFavouritesComponent"
+  >
+    Add to Favourites
+  </span>
+  <svg
+    className="bi bi-heart-fill"
+    fill="red"
+    height="16"
+    viewBox="0 0 16 16"
+    width="16"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z"
+      fill-rule="evenodd"
+    />
+  </svg>
+</div>
+`;
