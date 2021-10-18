@@ -2,6 +2,8 @@
 
 > A full-stack web application, created with Express and React, that interfaces with the iTunes Search API.
 
+The deployed app can be found [here](https://itunes-search-app-riaz.herokuapp.com/)
+
 ## Table of Contents:
 
 - [General Info](#general-information)
