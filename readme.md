@@ -2,6 +2,8 @@
 
 > A full-stack web application, created with Express and React, that interfaces with the iTunes Search API.
 
+The deployed app can be found [here](https://itunes-search-app-riaz.herokuapp.com/)
+
 ## Table of Contents:
 
 - [General Info](#general-information)
@@ -10,6 +12,7 @@
 - [Running Tests](#running-tests)
 - [Application Security](#application-security)
 - [Handling of API Keys](#handling-of-api-keys)
+- [Screenshots](#screenshots)
 - [Credits](#credits)
 - [Contact](#contact)
 
@@ -78,6 +81,15 @@ I did not require an API key in order to access the iTunes Search API. However, 
   This key can now be accessed by using the process.env variable. E.g. console.log(process.env.REACT_APP_MOVIE_API_KEY) will print the Movie API key to the console.
 - Lastly, add the .env file to your .gitignore file. This will ensure that the .env file, which contains the key, is NOT pushed to GitHub!
 
+## Screenshots
+
+- Search Functionality
+![Search](/images/Search.png)
+<br />
+
+- Adding to Favourites Functionality
+![Favourites](/images/Favourites.png)
+
 ## Credits
 
 - The React Movie App [tutorial](https://www.youtube.com/watch?v=jc9_Bqzy2YQ&list=LL&index=3&t=2266s) - by Chris Blakely.
@@ -85,6 +97,6 @@ I did not require an API key in order to access the iTunes Search API. However, 
 
 ## Contact
 
-**Riaz Karolia**
-Created by [@RiazK09](https://www.linkedin.com/in/riaz-karolia/) - Feel free to contact me!
-<!-- If you click on my username, it will take you to my LinkedIn profile -->
+👤 **Riaz Karolia**
+
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/riaz-karolia/)
