@@ -83,11 +83,13 @@ I did not require an API key in order to access the iTunes Search API. However, 
 
 ## Screenshots
 
-- Search Functionality
+- **Search Functionality**
+<br />
 ![Search](/images/Search.png)
 <br />
 
-- Adding to Favourites Functionality
+- **"Adding to Favourites" Functionality**
+<br />
 ![Favourites](/images/Favourites.png)
 
 ## Credits
